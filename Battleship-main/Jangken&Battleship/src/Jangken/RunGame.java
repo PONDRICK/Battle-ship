@@ -1,4 +1,4 @@
-package projectgame;
+package Jangken;
 
 //Class ไว้ Run ProjectGame
 public class RunGame {

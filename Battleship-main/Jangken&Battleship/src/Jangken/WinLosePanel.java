@@ -1,4 +1,4 @@
-package projectgame;
+package Jangken;
 
 import javax.swing.ImageIcon;
 

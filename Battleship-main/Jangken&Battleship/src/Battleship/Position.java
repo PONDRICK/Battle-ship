@@ -1,3 +1,5 @@
+package Battleship;
+
 /**
  * Battleship
  * Author: Peter Mitchell (2021)

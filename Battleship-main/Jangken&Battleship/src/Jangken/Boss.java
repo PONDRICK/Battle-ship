@@ -1,4 +1,4 @@
-package projectgame;
+package Jangken;
 
 import java.util.Random;
 

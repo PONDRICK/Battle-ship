@@ -1,4 +1,4 @@
-package projectgame;
+package Jangken;
 
 public class Player extends Stat{
     Player(){

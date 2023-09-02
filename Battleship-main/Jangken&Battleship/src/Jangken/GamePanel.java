@@ -1,4 +1,4 @@
-package projectgame;
+package Jangken;
 
 import java.awt.Toolkit;
 import java.awt.event.KeyEvent;

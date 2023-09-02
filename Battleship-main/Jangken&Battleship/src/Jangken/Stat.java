@@ -1,4 +1,4 @@
-package projectgame;
+package Jangken;
 
 abstract class Stat{
     public int Lifepoint;

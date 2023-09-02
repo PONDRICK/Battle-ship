@@ -1,3 +1,5 @@
+package Battleship;
+
 import java.awt.*;
 
 /**
